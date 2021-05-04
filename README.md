@@ -1,3 +1,6 @@
+sudo ln -s /usr/local/include/opencv4/opencv2 /usr/local/include/opencv2
+
+
 # Caffe
 [![Build Status](https://travis-ci.org/BVLC/caffe.svg?branch=master)](https://travis-ci.org/BVLC/caffe)
 [![License](https://img.shields.io/badge/license-BSD-blue.svg)](LICENSE)
