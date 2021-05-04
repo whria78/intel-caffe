@@ -1,4 +1,4 @@
-sudo ln -s /usr/local/include/opencv4/opencv2 /usr/local/include/opencv2
+sudo ln -s /usr/include/opencv4/opencv2 /usr/local/include/opencv2
 
 
 # Caffe
